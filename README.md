@@ -1,6 +1,6 @@
 ### Hellooo 👋
 
-## My name is Kami I'm a programmer that 16 y/o but I'm newbie of web development 
+## My name is Kami I'm a programmer that 16 y/o but I'm beginner of web development 
 ## Plan to be CEDT at Chulalongkorn University
 
 [![Kami github stats](https://github-readme-stats.vercel.app/api?username=KamiK4M1)](https://github.com/KamiK4M1)
