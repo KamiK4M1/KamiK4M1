@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hellooo 👋
 
+## My name is Kami I'm a programmer that 16 y/o but I'm newbie of web development 
+## Plan to be CEDT Chulalongkorn University
+
+[![Kami github stats](https://github-readme-stats.vercel.app/api?username=KamiK4M1)](https://github.com/KamiK4M1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamiK4M1&layout=compact)](https://github.com/KamiK4M1)
 <!--
 **KamiK4M1/KamiK4M1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
