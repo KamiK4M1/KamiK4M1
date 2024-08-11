@@ -1,11 +1,11 @@
 # Hellooo 👋
-
+### My name is Kami I'm a programmer that 16 y/o but I'm beginner of web development 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=KamiK4M1&label=Profile%20Views&color=1&icon=0&pretty=true" />
 </a>
 
-### My name is Kami I'm a programmer that 16 y/o but I'm beginner of web development 
-### Plan to be CEDT at Chulalongkorn University
+
+### My dream is to become an AI Engineer
 
 [![Kami github stats](https://github-readme-stats.vercel.app/api?username=KamiK4M1)](https://github.com/KamiK4M1) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamiK4M1&layout=compact)](https://github.com/KamiK4M1)
